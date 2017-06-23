@@ -1,12 +1,5 @@
-import sqlite3
-from datetime import datetime
-from datetime import date
-import matplotlib.pyplot as plt
-import numpy
 import numpy as np
 from matplotlib import pylab as pl
-
-from initializer import DBInitializer
 
 
 def curve(self, x, theta):

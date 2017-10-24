@@ -7,3 +7,4 @@ nike.py
 oi.txt
 scriptets.py
 yura
+hi my friend

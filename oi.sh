@@ -1,3 +1,3 @@
 #!bin/bash
 
-gdfgdf
+echo "hello world"

@@ -1,16 +1,3 @@
-
-nice to meet you 
-have a nice day
-
-new changes
-
-second changes
-Im crazy
-
-mama
-second changes
-
-drunken
 go.txt
 nike.py
 oi.sh

@@ -11,3 +11,8 @@ mama
 second changes
 
 drunken
+go.txt
+nike.py
+oi.sh
+scriptets.py
+yura

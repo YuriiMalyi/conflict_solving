@@ -1,5 +1,1 @@
-go.txt
-nike.py
-oi.sh
-scriptets.py
-yura
+gerrit test

@@ -29,3 +29,4 @@ obj.draw_curve(s1)
 
 pl.xlim(-np.pi, np.pi)
 pl.show()
+print('regards')
